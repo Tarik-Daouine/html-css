@@ -1,0 +1,111 @@
+body {
+    background-color: #fff5e6;
+    height: 100vh;
+    header {
+        margin: 0%;
+        ;
+        width: 100%;
+    }
+    .nav {
+        margin: 0;
+        padding-left: 8%;
+        background-color: #ff541f;
+        height: 35px;
+    }
+    .button {
+        border-right: 1px solid #bbb;
+        padding-left: 1%;
+    }
+    .button1 {
+        border-right: 1px solid black;
+        background-color: #333532;
+        width: max-content;
+        padding-right: 1%;
+        width: 29px;
+    }
+    #titre {
+        padding-left: 9%;
+        color: orange;
+    }
+    i {
+        color: white;
+        width: 10px;
+        height: 10px;
+        margin: 0;
+    }
+    .main {
+        margin: auto;
+        background-color: #333532;
+        height: 360px;
+    }
+    .image {
+        padding-left: 7%;
+        margin: 0;
+    }
+    .png {
+        height: 80%
+    }
+    .png2 {
+        padding-top: 2%;
+        height: 20%
+    }
+    .liste {
+        height: 70px;
+        margin-left: 5%;
+    }
+    .li1 {
+        background-color: #a0c2a8;
+    }
+    li {
+        background-color: #383f34;
+        padding: 20px;
+        display: inline-flex;
+        color: white;
+        border: 0px;
+    }
+    .umain {
+        margin-top: 2%;
+    }
+    .colonne {
+        text-align: center;
+    }
+    .texte {
+        color: white;
+        text-align: center;
+    }
+    .unmain {
+        padding-left: 5%
+    }
+    .rond1 {
+        height: 100px;
+        width: 200px;
+        background-color: #33362d;
+        border-radius: 50%;
+        padding-left: 0px;
+        padding-right: 0px;
+        left: 20px;
+    }
+    .rond2 {
+        height: 100%;
+        width: 100%;
+        background-color: #eaebda;
+        border-radius: 50%;
+        opacity: 80%;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .rond3 {
+        height: 100px;
+        width: 200px;
+        background-color: #eaebda;
+        border-radius: 50%;
+        opacity: 80%;
+        padding-left: 0px;
+        padding-right: 0px;
+        right: 20px;
+    }
+}
+
+.row {
+    margin: 0;
+}

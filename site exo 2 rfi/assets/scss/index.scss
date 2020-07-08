@@ -1,0 +1,70 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    header {
+        height: 30%;
+        background-color: white;
+    }
+    #rfi {
+        margin-top: 5%;
+        margin-bottom: 5%;
+        padding-left: 30%;
+    }
+    .navBar {
+        height: 40px;
+    }
+    .navTexte {
+        padding-top: 5%;
+        color: black;
+    }
+    #rouge {
+        color: red;
+    }
+    #space {
+        padding-left: 0%;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+    li {
+        float: left;
+    }
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    .menu {
+        height: 100%;
+        padding-left: 9%;
+        color: white;
+        background-color: #e2001a;
+    }
+    #mot {
+        padding-top: 10px
+    }
+    #corona {
+        color: #e2001a;
+        background-color: white;
+        border: solid;
+        border-radius: 20px 20px 20px 20px;
+        height: 40px;
+        padding-top: 4%;
+        margin-top: 3%;
+    }
+    .alerte {
+        background-color: #000145;
+        padding-left: 10%;
+        color: white;
+    }
+    .container {
+        background-color: #333;
+    }
+}
